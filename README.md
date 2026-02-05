@@ -29,10 +29,10 @@ print(x)
 <img width="1476" height="854" alt="{B3F65386-EE53-40D4-AF07-3759F451ABDE}" src="https://github.com/user-attachments/assets/09dbb60e-2aae-4796-a2f0-125f5a0ce5bb" />
 
 ## Result: 
+
+
 Thus the solutions for the linear equations are successfully solved using python program
 
 
 
-`
-`
-`
+
